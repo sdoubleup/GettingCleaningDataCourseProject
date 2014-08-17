@@ -29,6 +29,11 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+Units
+=====
+
+Accelerometer readings are in standard gravity units 'g'.
+Gyroscope reading are in units of radians/second.
 
 Transformations - STEP 1
 ========================
